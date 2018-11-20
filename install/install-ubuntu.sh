@@ -47,7 +47,7 @@ if [ `whoami` != "root" ];then
 fi
 
 
-download_Url=https://67zz.cn
+download_Url=https://github.com/wangzhe12588/bt59-local/raw/master
 
 setup_path=/www
 port='8888'
